@@ -22,7 +22,7 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 * [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 * [ ] Push commits: git push origin `<firstName-lastName>`.
 
-### Task 2a: MVP
+### Task 2a: MVP jj
 
 #### Create selectors to point your data into elements
 
